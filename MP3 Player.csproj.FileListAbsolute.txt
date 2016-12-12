@@ -1,0 +1,14 @@
+c:\users\jelliott\documents\visual studio 2015\Projects\MP3 Player\MP3 Player\bin\Debug\MP3 Player.exe.config
+c:\users\jelliott\documents\visual studio 2015\Projects\MP3 Player\MP3 Player\bin\Debug\MP3 Player.exe
+c:\users\jelliott\documents\visual studio 2015\Projects\MP3 Player\MP3 Player\bin\Debug\MP3 Player.pdb
+c:\users\jelliott\documents\visual studio 2015\Projects\MP3 Player\MP3 Player\bin\Debug\Interop.WMPLib.dll
+c:\users\jelliott\documents\visual studio 2015\Projects\MP3 Player\MP3 Player\bin\Debug\AxInterop.WMPLib.dll
+c:\users\jelliott\documents\visual studio 2015\Projects\MP3 Player\MP3 Player\obj\Debug\MP3 Player.csprojResolveAssemblyReference.cache
+c:\users\jelliott\documents\visual studio 2015\Projects\MP3 Player\MP3 Player\obj\Debug\Interop.WMPLib.dll
+c:\users\jelliott\documents\visual studio 2015\Projects\MP3 Player\MP3 Player\obj\Debug\AxInterop.WMPLib.dll
+c:\users\jelliott\documents\visual studio 2015\Projects\MP3 Player\MP3 Player\obj\Debug\MP3 Player.csproj.ResolveComReference.cache
+c:\users\jelliott\documents\visual studio 2015\Projects\MP3 Player\MP3 Player\obj\Debug\MP3_Player.Form1.resources
+c:\users\jelliott\documents\visual studio 2015\Projects\MP3 Player\MP3 Player\obj\Debug\MP3_Player.Properties.Resources.resources
+c:\users\jelliott\documents\visual studio 2015\Projects\MP3 Player\MP3 Player\obj\Debug\MP3 Player.csproj.GenerateResource.Cache
+c:\users\jelliott\documents\visual studio 2015\Projects\MP3 Player\MP3 Player\obj\Debug\MP3 Player.exe
+c:\users\jelliott\documents\visual studio 2015\Projects\MP3 Player\MP3 Player\obj\Debug\MP3 Player.pdb
